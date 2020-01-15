@@ -17,5 +17,6 @@ For full documentation visit [mkdocs.org](https://mkdocs.org).
         ...       # Other markdown pages, images and other files.
 
 ## Nucleo Development Board
-    [board]: https://github.com/MattDsouza/mkdocs-test/blob/master/docs/st_nucleof429zi.png
+    ![board](https://github.com/MattDsouza/mkdocs-test/blob/master/docs/st_nucleof429zi.png)
+
     Copyright: ST Microelectronics
